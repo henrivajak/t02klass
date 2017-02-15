@@ -20,3 +20,13 @@ public class Risttahukas{
 		       ruumala()+" kuupmeetrit, pindala on "+pindala()+" ruutmeetrit.";
 	}
 }
+
+/*700.0 1000.0
+45.0 18.0
+127.5 84.375
+
+
+Risttahuka pikkus on 5.0m, laius on 10.0m, kõrgus on 20.0m, ruumala on 1000.0 kuupmeetrit, pindala on 700.0 ruutmeetrit.
+Risttahuka pikkus on 1.5m, laius on 4.0m, kõrgus on 3.0m, ruumala on 18.0 kuupmeetrit, pindala on 45.0 ruutmeetrit.
+Risttahuka pikkus on 2.5m, laius on 7.5m, kõrgus on 4.5m, ruumala on 84.375 kuupmeetrit, pindala on 127.5 ruutmeetrit.
+*/
